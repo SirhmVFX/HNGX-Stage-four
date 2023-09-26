@@ -1,6 +1,5 @@
-import { motion } from "framer-motion";
+// import { motion } from "framer-motion";
 import { ExpCircle } from "../../assets/Icons";
-import Resume from "../../utils/victor.pdf";
 
 const Experience = () => {
   // const handleDownload = () => {
