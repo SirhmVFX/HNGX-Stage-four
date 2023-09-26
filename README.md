@@ -34,8 +34,8 @@ Feel free to customize this portfolio to showcase your own projects and skills. 
 
 If you have any questions or would like to get in touch, you can reach me at:
 
-- Email: victoluolatunji@gmail.com
-- GitHub: [Vitorola-coder](https://github.com/sirhmvfx)
+- Email: sirhmvfx@gmail.com
+- GitHub: [Ganiu Samuel](https://github.com/sirhmvfx)
 <!-- - Portfolio: [preview](https://www.vickyjay.dev) -->
 
 Thank you for visiting my portfolio!
