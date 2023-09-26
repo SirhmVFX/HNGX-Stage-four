@@ -1,6 +1,4 @@
-# VickyJay - Personal Portfolio Website
-
-![VickyJay's Portfolio Screenshot](./src/assets/images/cover.png)
+# Samuel - Personal Portfolio Website
 
 Welcome to my personal portfolio! This project showcases my frontend development skills and projects I've worked on. Feel free to explore the different sections to learn more about me and my work.
 
@@ -23,7 +21,7 @@ Welcome to my personal portfolio! This project showcases my frontend development
 ## Installation and Setup
 
 1. Clone this repository to your local machine using `git clone`.
-2. Navigate to the project directory: `cd vickyjay`.
+2. Navigate to the project directory: `cd HNGX-Stage-four`.
 3. Install project dependencies using `npm install`.
 4. Start the development server: `npm start`.
 5. Open your web browser and navigate to `http://localhost:5173` to view the portfolio.
@@ -37,8 +35,8 @@ Feel free to customize this portfolio to showcase your own projects and skills. 
 If you have any questions or would like to get in touch, you can reach me at:
 
 - Email: victoluolatunji@gmail.com
-- GitHub: [Vitorola-coder](https://github.com/Victorla-coder)
-- Portfolio: [preview](https://www.vickyjay.dev)
+- GitHub: [Vitorola-coder](https://github.com/sirhmvfx)
+<!-- - Portfolio: [preview](https://www.vickyjay.dev) -->
 
 Thank you for visiting my portfolio!
 
