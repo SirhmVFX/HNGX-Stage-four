@@ -1,5 +1,19 @@
 export const projectData = [
   {
+    name: "CycleCare UI Design",
+    desc: "A Solution Designed to provide cycle & menstrual amenities for ladies that can't afford them  ",
+    lang: "Figma",
+    link: "https://www.figma.com/proto/5N5vKHgmymR88KafdS9TFo?node-id=57-1396&locale=en",
+  },
+
+  {
+    name: "Civight",
+    desc: "A security webapp designed to help individuals stay secured ",
+    lang: "FIgma",
+    link: "https://www.figma.com/proto/Fjc5X3aQN2FL6UTf51la7E?node-id=17-1480&locale=en",
+  },
+
+  {
     name: "Start Power Accomodations",
     desc: "converts the text input to an audio output",
     lang: "JavaScript + Css + Html",
