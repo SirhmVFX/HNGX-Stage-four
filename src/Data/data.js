@@ -7,10 +7,24 @@ export const projectData = [
   },
 
   {
+    name: "CycleCare UI Design in Production",
+    desc: "A Solution Designed to provide cycle & menstrual amenities for ladies that can't afford them  ",
+    lang: "NextJs & Firebase",
+    link: "https://cyclecare-v1.netlify.app/",
+  },
+
+  {
     name: "Civight",
     desc: "A security webapp designed to help individuals stay secured ",
     lang: "FIgma",
     link: "https://www.figma.com/proto/Fjc5X3aQN2FL6UTf51la7E?node-id=17-1480&locale=en",
+  },
+
+  {
+    name: "Civight In Production",
+    desc: "A security webapp designed to help individuals stay secured ",
+    lang: "NextJs & Firebase",
+    link: "https://trycivight-v1.netlify.app/",
   },
 
   {
